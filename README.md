@@ -1,13 +1,13 @@
 # **Laporan Praktikum 6 - Pemrograman Web (Bootstrap & JavaScript)**
 
-## **Nama:**
-Cindy Simanullang  
+## **Nama:** Cindy Revalina Simanullang  
 
-## **Kelas:**
-TI.XX (isi sesuai kelasmu)  
 
-## **Mata Kuliah:**
-Pemrograman Web  
+## **Kelas:**TI.24 A3
+
+
+## **Mata Kuliah:**Pemrograman Web 1
+
 
 ---
 
