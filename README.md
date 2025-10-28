@@ -40,7 +40,7 @@ Mengubah layout sederhana menjadi responsif menggunakan komponen Bootstrap.
 Terdapat header navigasi, konten utama di sebelah kiri, dan sidebar di sebelah kanan dalam satu layout responsif.  
 
 📸 *Contoh tampilan:*  
-![Tampilan index](img/index.png)
+![Tampilan index](gambar/index.png)
 
 ---
 
@@ -60,7 +60,7 @@ Merapikan tampilan form agar terlihat profesional dan responsif dengan class Boo
 Form terlihat rapi, mudah diisi, dan otomatis menyesuaikan ukuran layar.  
 
 📸 *Contoh tampilan:*  
-![Tampilan Form](gambar/form.png)
+![Tampilan form](gambar/form.png)
 
 ---
 
