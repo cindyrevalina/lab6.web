@@ -3,10 +3,10 @@
 ## **Nama:** Cindy Revalina Simanullang  
 
 
-## **Kelas:**TI.24 A3
+## Kelas:TI.24 A3
 
 
-## **Mata Kuliah:**Pemrograman Web 1
+## Mata Kuliah: Pemrograman Web 1
 
 
 ---
@@ -37,7 +37,7 @@ Mengubah layout sederhana menjadi responsif menggunakan komponen Bootstrap.
 Terdapat header navigasi, konten utama di sebelah kiri, dan sidebar di sebelah kanan dalam satu layout responsif.  
 
 📸 *Contoh tampilan:*  
-![Tampilan Index](gambar/index.png)
+![Tampilan Index]index.png)
 
 ---
 
