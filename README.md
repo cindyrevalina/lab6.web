@@ -61,7 +61,8 @@ Merapikan tampilan form agar terlihat profesional dan responsif dengan class Boo
 Form terlihat rapi, mudah diisi, dan otomatis menyesuaikan ukuran layar.  
 
 📸 *Contoh tampilan:*  
-![Tampilan form](gambar/form.png)
+![Tampilan form]<img width="770" height="763" alt="image" src="https://github.com/user-attachments/assets/59ee723a-3e7f-496d-b5e4-f202faf99c12" />
+
 
 ---
 
