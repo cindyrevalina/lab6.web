@@ -84,7 +84,8 @@ Membuat halaman portfolio yang menampilkan profil diri dan proyek-proyek yang pe
 Halaman tampil modern dengan layout simetris dan foto profil yang responsif.
 
 📸 *Contoh tampilan:*  
-![Tampilan Portfolio](gambar/portfolio.png)
+![Tampilan Portfolio]<img width="1128" height="628" alt="image" src="https://github.com/user-attachments/assets/8464d5b9-8b42-4732-a73e-a3b909e62271" />
+
 
 ---
 
