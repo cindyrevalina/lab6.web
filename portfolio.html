@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfolio Sederhana</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand fw-bold" href="#">Portfolio Saya</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link active" href="#">Beranda</a></li>
+          <li class="nav-item"><a class="nav-link" href="#tentang">Tentang Saya</a></li>
+          <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+          <li class="nav-item"><a class="nav-link" href="#kontak">Kontak</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- SECTION TENTANG SAYA -->
+  <section id="tentang" class="py-5">
+    <div class="container">
+      <h2 class="text-center mb-4">Tentang Saya</h2>
+      <div class="row align-items-center">
+        <!-- Kolom Kiri: Foto -->
+        <div class="col-md-4 text-center">
+          <img src="foto profil.png" alt="Foto Saya" class="img-fluid rounded-circle shadow">
+        </div>
+
+        <!-- Kolom Kanan: Deskripsi -->
+        <div class="col-md-8">
+          <h3 class="fw-bold">Cindy Revalina</h3>
+          <p class="lead">
+            Halo! Saya adalah seorang mahasiswa yang tertarik dengan dunia teknologi, desain web, dan pengembangan aplikasi.
+            Saya senang belajar hal baru, terutama yang berkaitan dengan pemrograman dan kreativitas digital.
+          </p>
+          <p>
+            Keahlian saya meliputi HTML, CSS, JavaScript, dan Python. Dalam waktu luang, saya suka membuat desain tampilan
+            web yang simpel dan elegan menggunakan framework modern seperti Bootstrap.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION PORTFOLIO SAYA -->
+  <section id="portfolio" class="bg-light py-5">
+    <div class="container">
+      <h2 class="text-center mb-4">Portfolio Saya</h2>
+      <div class="row">
+        <!-- Proyek 1 -->
+        <div class="col-md-4 mb-4">
+          <div class="card h-100 shadow-sm">
+            <img src="store online.png" class="card-img-top" alt="Proyek 1">
+            <div class="card-body">
+              <h5 class="card-title">Website Toko Online</h5>
+              <p class="card-text">Desain dan pengembangan website e-commerce sederhana menggunakan Bootstrap dan PHP.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Proyek 2 -->
+        <div class="col-md-4 mb-4">
+          <div class="card h-100 shadow-sm">
+            <img src="aplikasi data mahasiswa.png" class="card-img-top" alt="Proyek 2">
+            <div class="card-body">
+              <h5 class="card-title">Aplikasi Data Mahasiswa</h5>
+              <p class="card-text">Sebuah aplikasi CRUD berbasis web untuk mengelola data mahasiswa dengan MySQL dan Flask.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Proyek 3 -->
+        <div class="col-md-4 mb-4">
+          <div class="card h-100 shadow-sm">
+            <img src="landing page.png" class="card-img-top" alt="Proyek 3">
+            <div class="card-body">
+              <h5 class="card-title">Desain Landing Page</h5>
+              <p class="card-text">Pembuatan halaman promosi produk yang responsif dan menarik menggunakan HTML & CSS modern.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer id="kontak" class="bg-dark text-white text-center py-3">
+    <p class="mb-0">© 2025 Cindy Revalina | Dibuat dengan ❤️ dan Bootstrap 5</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
