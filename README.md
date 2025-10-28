@@ -37,7 +37,7 @@ Mengubah layout sederhana menjadi responsif menggunakan komponen Bootstrap.
 Terdapat header navigasi, konten utama di sebelah kiri, dan sidebar di sebelah kanan dalam satu layout responsif.  
 
 📸 *Contoh tampilan:*  
-![Tampilan Index]foto/index.png)
+![Tampilan Index](gambar/index.png)
 
 ---
 
