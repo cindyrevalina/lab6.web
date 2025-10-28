@@ -1,6 +1,9 @@
 # **Laporan Praktikum 6 - Pemrograman Web (Bootstrap & JavaScript)**
 
-## **Nama:** Cindy Revalina Simanullang  
+## **Nama:** Cindy Revalina Simanullang 
+
+
+## Nim : 312410417
 
 
 ## Kelas:TI.24 A3
@@ -37,7 +40,7 @@ Mengubah layout sederhana menjadi responsif menggunakan komponen Bootstrap.
 Terdapat header navigasi, konten utama di sebelah kiri, dan sidebar di sebelah kanan dalam satu layout responsif.  
 
 📸 *Contoh tampilan:*  
-![Tampilan Index](gambar/index.png)
+![Tampilan index](img/index.png)
 
 ---
 
